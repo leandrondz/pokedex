@@ -16,7 +16,10 @@ ex "fr": "Pêchaminus"
             "en": "MissingNo.",  
             "jp": "キャタピー"  
    
-  
+
+
+
+        
 lors qu'un Pokémon n'existe pas le code renvoyer est le suivant   
 {  
     "status": 404,  
